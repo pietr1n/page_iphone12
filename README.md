@@ -1,6 +1,6 @@
 <h1 align="center"> Pietro Juan </h1>
 
-<p align="center">🔍 Navegação dentro do Readme. </p>
+<p align="center">🔍 Navegando pelo README. </p>
 
 <div align="center">
 
@@ -46,7 +46,7 @@ ___
 ___
 
 <div align="left">
-  <h1 id="clonar">💻 Como rodar o projeto na sua máquina da forma que rodei na minha</h1>
+  <h1 id="clonar">💻 Como rodar o projeto no seu Pc</h1>
   <p>➡ Baixe meu projeto em zip. <p>
 
   <p>➡ Após isso, extraia para uma pasta (Necessário ter Win Rar) </p>
