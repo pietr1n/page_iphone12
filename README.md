@@ -49,7 +49,7 @@ ___
   <h1 id="clonar">💻 Como rodar o projeto na sua máquina da forma que rodei na minha</h1>
   <p>➡ Baixe meu projeto em zip. <p>
 
-  <p>➡ Após isso, extraia ou abra pelo Win Rar </p>
+  <p>➡ Após isso, extraia para uma pasta (Necessário ter Win Rar) </p>
   <p>➡ Se extraiu, entre na pasta, e clique com o botão direito no arquivo "index.html" </p>
   
   <p>➡ Após isso, selecione abrir com, e escolha o seu navegador</p>
@@ -74,7 +74,7 @@ ___
     <p>
      ➡ Caso tenha dúvidas sobre como criar um pull request, 
       <a 
-        href="https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request"> Clique aqui"  </a>  
+        href="https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">Clique aqui</a>  
     </p>
   </div>
 </div>
@@ -87,7 +87,7 @@ ___
   <h1 id="sociais">📱 Redes sociais</h1>
 
   [![](https://img.shields.io/badge/-Github-434140)](https://github.com/pietr1n)
-  [![](https://img.shields.io/badge/-Linkedin-3DC3C9)](https://https://www.linkedin.com/in/pietro-rodrigues-805212197/)
+  [![](https://img.shields.io/badge/-Linkedin-3DC3C9)](https://www.linkedin.com/in/pietro-rodrigues-805212197/)
   [![](https://img.shields.io/badge/-Instagram-EA3C7A)](https://www.instagram.com/pietroo_019)
 
 </div>
